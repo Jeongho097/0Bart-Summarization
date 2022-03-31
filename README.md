@@ -20,3 +20,4 @@
     - 'klue/bert-base'는 연합 뉴스 헤드라인, 위키피디아, 위키 뉴스, 위키트리, 정책 뉴스 PARAKQC, 에어비앤비 리뷰, NSMC, Acrofan News, 한국 경제 신문등의 데이터를 사용함 ([KLUE](https://klue-benchmark.com/))
 
     - "snunlp/KR-FinBert"는 확국어 위키피디아 텍스트, 일반 뉴스 기사, 국가 법률 정보 센터의 법률 데이터 셋을 사용한 KR-BERT_MEDIUM에서 72개의 언론사의 기업 관련 경제 뉴스 기사, 16개의 증권사 애널리스트 보고서가 확장됨([KR-Finbert Github](https://github.com/snunlp/KR-FinBert))
+ - 데이터는 NSMC 데이터 셋 사용
