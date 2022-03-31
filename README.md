@@ -10,6 +10,10 @@
 - 원하는 기업의 최신 뉴스 기사를 크롤링 하기 위해 크롤링 시점의 날짜부터 원하는 날짜까지 설정해 크롤링 함
 
 # 2. Bart를 이용한 기업 뉴스 기사 요약
+- Bart 사전 학습 모델 'gogamza/kobart-base-v1'을 사용
+- 데이터는 AI Hub의 문서요약 텍스트 데이터 셋 사용 
+    - https://aihub.or.kr/aidata/8054 
+    - 데이터 중 'media_sub_type'이 '경제지인 데이터 65,865개의 데이터를 train data로 사용
 
 # 3. 'klue/bert-base'와 "snunlp/KR-FinBert" 성능 비교
 - 뉴스 기사 요약문을 BERT 사전학습모델 'klue/bert-base'또는 "snunlp/KR-FinBert"을 이용해 긍정/부정 분류
