@@ -17,4 +17,4 @@
 
 # 3. 'klue/bert-base'와 "snunlp/KR-FinBert" 성능 비교
 - 뉴스 기사 요약문을 BERT 사전학습모델 'klue/bert-base'또는 "snunlp/KR-FinBert"을 이용해 긍정/부정 분류
-    - "snunlp/KR-FinBert"는  KR-BERT_MEDIUM에서 72개의 언론사의 기업 관련 경제 뉴스 기사와 16개의 증권사의 애널리스트 보고서가 확장됨([KR-Finbert Github](https://github.com/snunlp/KR-FinBert))
+    - "snunlp/KR-FinBert"는  KR-BERT_MEDIUM에서 72개의 언론사의 기업 관련 경제 뉴스 기사, 16개의 증권사의 애널리스트 보고서가 확장됨([KR-Finbert Github](https://github.com/snunlp/KR-FinBert))
